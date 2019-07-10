@@ -19,6 +19,10 @@
     padding-bottom:30px;
     
 }
+#showcase .showcase-content h1{
+    font-size:40px;
+}
+
 /*home- infos*/
 #home-info .info-img{
     display: none;
